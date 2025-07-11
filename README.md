@@ -34,6 +34,8 @@ At 8x8, I specialize in:
 ### 🔧 SIP & Network Troubleshooting Playbook
 - Created an escalation playbook used by Tier 1/2 teams to identify SIP/RTP-related call issues
 - Collaborated with NOC team to document root causes and shorten resolution time
+  bash
+  https://github.com/8x8-x888/sip-troubleshooting-tool/commit/a30bab1d5dced6969ce3bf61ec0c78300fb53cf8
 
 ### 📊 CCaaS Metrics Reporting Flow
 - Streamlined reporting flow using Jira custom fields and call sample logging
